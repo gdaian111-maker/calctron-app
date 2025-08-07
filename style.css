@@ -235,4 +235,11 @@ button:active {
     #botao-avancar, #botao-obter-oferta {
         font-size: 1.2rem;
     }
+
+}
+#pagina-2 #botao-comprar-2 {
+    display: none;
+}
+#pagina-3 #botao-comprar-3 {
+    display: none;
 }
