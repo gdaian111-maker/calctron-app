@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
             p: "Você considera perigoso confiar apenas no 'olhômetro' ou experiência para dimensionar cabos e disjuntores?",
             r: [
                 "Sim, já vi erros graves por falta de cálculo correto.",
-                "Concordo, dimensionar com precisão evita riscos desnecessários.",
+                "Não considero, tenho muitos anos de experiência no ramo.",
                 "Já usei métodos empíricos, mas sei que o ideal é algo técnico e confiável.",
                 "Sim, preciso de uma solução que me dê confiança e segurança nos projetos."
             ]
@@ -18,14 +18,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 "Muito útil, porque tempo é essencial no meu dia a dia.",
                 "Ferramentas assim ajudam a garantir qualidade e agilidade.",
                 "Seria ótimo, porque eliminaria dúvidas comuns no serviço.",
-                "Seria um diferencial que agregaria valor imediato ao meu trabalho."
+                "Na verdade gosto de calcular tudo na mão e ponderar cada tabela da norma."
             ]
         },
         {
             p: "Você acredita que dominar a NBR 5410 é essencial para prestar serviços de qualidade e evitar responsabilidade civil?",
             r: [
                 "Com certeza, isso é um pilar da nossa profissão.",
-                "Saber aplicar a norma aumenta minha credibilidade.",
+                "Pra mim essencial é ter muita experiência.",
                 "Sim, é uma maneira de garantir segurança ao cliente e a mim.",
                 "É essencial para trabalhar com segurança e confiança."
             ]
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "Sim, porque reduz a chance de erro humano.",
                 "Sem dúvida, me traria mais confiança para seguir com o serviço.",
                 "Sim, principalmente em instalações mais complexas.",
-                "Seria uma garantia técnica que valorizaria meu trabalho."
+                "Eu sigo o projeto à risca; se houver erro, a culpa é do projetista."
             ]
         },
         {
@@ -45,16 +45,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 "Com certeza, quem não se atualiza fica pra trás.",
                 "Atualização é o que separa o profissional comum do excelente.",
                 "Sim, estar atualizado é mostrar compromisso com a profissão.",
-                "O mercado exige isso, e quero estar um passo à frente."
+                "Não preciso me atualizar, experiência é tudo que importa."
             ]
         },
         {
             p: "Já sentiu que perdeu tempo tentando calcular ou revisar projetos de forma manual e insegura?",
             r: [
-                "Sim, e foi frustrante não ter uma base confiável.",
+                "Sim, preciso de uma solução que agilize e padronize meus cálculos.",
                 "Já aconteceu, e percebi como um bom sistema faria diferença.",
                 "Sim, seria ótimo resolver isso com rapidez e exatidão.",
-                "Sim, preciso de uma solução que agilize e padronize meus cálculos."
+                "Não levanto a mão contra nada que esteja no projeto."
             ]
         },
         {
@@ -63,16 +63,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 "Total valor, porque é minha reputação que está em jogo.",
                 "Segurança é o mínimo que se espera de um bom profissional.",
                 "É fundamental, tanto para o cliente quanto para minha tranquilidade.",
-                "Dou muito valor, e quero melhorar sempre nesse aspecto."
+                "Dou valor, e quero melhorar sempre nesse aspecto."
             ]
         },
         {
             p: "Você concorda que eletricistas que usam ferramentas modernas passam mais credibilidade e fecham mais serviços?",
             r: [
                 "Concordo, o cliente percebe o diferencial.",
-                "Sim, a apresentação profissional impacta diretamente na decisão do cliente.",
+                "Não acredito que favoreça.",
                 "Ferramentas modernas mostram comprometimento e preparo.",
-                "Sim, isso transmite confiança e seriedade."
+                "Sim, a apresentação profissional impacta diretamente na decisão do cliente."
             ]
         },
         {
@@ -206,6 +206,7 @@ document.addEventListener('DOMContentLoaded', () => {
     irParaPagina(1);
 
 });
+
 
 
 
