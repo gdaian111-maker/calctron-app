@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function abrirLinkCheckout() {
-        window.open('https://pay.hotmart.com/H101258845W', '_blank');
+        window.open('https://play.google.com/store/apps/details?id=org.jeronimo_gda.calctron_pro', '_blank');
     }
 
     function marcarBotaoSelecionado(botao) {
@@ -206,5 +206,6 @@ document.addEventListener('DOMContentLoaded', () => {
     irParaPagina(1);
 
 });
+
 
 
